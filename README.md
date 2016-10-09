@@ -39,4 +39,5 @@ GitHub command used----------------
 git clone
 git status
 git add .
+git commit -m "comment"
 git push origin master
